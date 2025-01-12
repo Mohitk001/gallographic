@@ -7,6 +7,7 @@ It Includes following functionality:
 - Photoalbum that opens on click a modal slider gallery
 
 
+<img width="957" alt="Screenshot 2025-01-12 162444" src="https://github.com/user-attachments/assets/2f29972a-a533-47e9-ba54-53e22dd5a0e8" />
 
 
 ---
