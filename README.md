@@ -41,4 +41,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ### Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# gallographic this a readme file add live link https://gallographic-o8xa8in7o-mohitk001s-projects.vercel.app/ in this
+# gallographic 
