@@ -1,5 +1,7 @@
 # Gallographic Gallery (@Angular)
 
+Live link: https://gallographic-o8xa8in7o-mohitk001s-projects.vercel.app/
+
 This project represents all photos.
 It Includes following functionality:
 
@@ -9,7 +11,6 @@ It Includes following functionality:
 
 <img width="957" alt="Screenshot 2025-01-12 162444" src="https://github.com/user-attachments/assets/2f29972a-a533-47e9-ba54-53e22dd5a0e8" />
 
-Live link: https://gallographic-o8xa8in7o-mohitk001s-projects.vercel.app/
 
 
 
