@@ -1,13 +1,12 @@
 # Gallographic Gallery (@Angular)
 
-This project represents all my photos during the last few years.
+This project represents all photos.
 It Includes following functionality:
 
 - Dark Mode toggle that is connected to localStorage and get initialized with System Theme
 - Photoalbum that opens on click a modal slider gallery
 
 
-![grafik](https://github.com/Semias/Gallographic-Gallery/assets/62961421/5783fe5d-97ef-4bc1-a4d8-8172b7e6bd94)
 
 
 ---
